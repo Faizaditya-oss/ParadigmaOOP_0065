@@ -22,6 +22,6 @@ int main (){
     mhs.nama = "faiz";
     mhs.nilai = 80.5;
 
-    
+    mhs.printData();
 
 }
