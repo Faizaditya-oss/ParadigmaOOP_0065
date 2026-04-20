@@ -18,6 +18,10 @@ public:
 
 int main (){
     Mahasiswa mhs;
-   
+    mhs.nim = 2024;
+    mhs.nama = "faiz";
+    mhs.nilai = 80.5;
+
+    
 
 }
